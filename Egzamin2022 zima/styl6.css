@@ -1,0 +1,45 @@
+body{
+    font-style: Georgia;
+}
+#lewy{
+    background-color: maroon;
+    color: white;
+    height: 600px;
+    width: 30%;
+    float: left;
+
+}
+#prawy{
+    background-color: maroon;
+    color: white;
+    height: 600px;
+    width: 70%;
+    float: right;
+    overflow: auto;
+}
+footer{
+    background-color: dimgray;
+    color: white;
+}
+img, ul{
+    float: inline-start;
+}
+img{
+    float: left;
+    border-style: solid;
+    border-width: 1px;
+    padding: 10px;
+}
+p{
+    padding: 10px;
+    clear: both;
+}
+#indigo{
+    background-color: indigo;
+}
+#steelblue{
+    background-color: steelblue;
+}
+#olive{
+    background-color: olive;
+}
